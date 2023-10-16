@@ -1,0 +1,4 @@
+baseURL = 'https://geospatialdataconsulting.com/'
+languageCode = 'en-us'
+title = 'Geospatial Data Consulting'
+theme = 'tella'
