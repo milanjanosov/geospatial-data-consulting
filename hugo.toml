@@ -2,3 +2,75 @@ baseURL = 'https://geospatialdataconsulting.com/'
 languageCode = 'en-us'
 title = 'Geospatial Data Consulting'
 theme = 'tella'
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+googleAnalytics = "G-ZN5K6GCYK4"
+
+# Disqus Comment System
+#disqusShortname = ""
+
+[params]
+
+  showBlog = true
+  mainSections = ['blog']
+
+  googleFonts = true
+
+  [params.logo]
+    main = "img/logo/logo.svg"
+    alt = "Tella Logo"
+
+    # The size parameter is the class name of tailwindcss
+    # https://tailwindcss.com/
+    size = "h-14"
+
+  [params.site]
+    name = "Geospatial Data Consulting"
+
+  [params.icon]
+    #If you want to use FontAwesome, set this parameter to true.
+    fontawesome = true
+
+  [params.homepage_meta_tags]
+    meta_description = "Geospatial Data Consulting"
+    meta_og_title = "Geospatial Data Consulting"
+    meta_og_type = "Geospatial Data Consulting"
+    meta_og_url = "https://geospatialdataconsulting.com/"
+    # meta_og_image = "https://geospatialdataconsulting.com/"
+    meta_og_description = "Geospatial Data Consulting"
+    # meta_twitter_card = "summary_large_image"
+    # meta_twitter_site = "@username"
+    # meta_twitter_creator = "@username"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "products"
+    name = "Products"
+    url = "/products/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+      weight = 1
