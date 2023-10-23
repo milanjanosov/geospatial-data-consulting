@@ -19,7 +19,7 @@ googleAnalytics = "G-ZN5K6GCYK4"
 
   [params.logo]
     main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    alt = "Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
@@ -74,3 +74,13 @@ googleAnalytics = "G-ZN5K6GCYK4"
     name = "Home"
     url = "/"
       weight = 1
+
+  [[menu.footer]]
+    name = "Facebook"
+    url = "https://facebook.com/"
+      weight = 3
+
+  [[menu.footer]]
+    name = "LinkedIn"
+    url = "https://linkedin.com/"
+      weight = 4
