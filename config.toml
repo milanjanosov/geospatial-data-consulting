@@ -18,7 +18,7 @@ googleAnalytics = "G-ZN5K6GCYK4"
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
+    main = "img/logo.svg"
     alt = "Logo"
 
     # The size parameter is the class name of tailwindcss
