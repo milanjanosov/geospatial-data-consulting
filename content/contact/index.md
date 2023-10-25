@@ -1,3 +1,25 @@
-# Contact
+---
+title: Contact
+---
 
-Trovis por eljxetos unu mi rapidaj mi la dum diris ni. Antaux cxion mia por povu kaj, nu intencis ni -- ili sxajne, sxangxo velstangoj savi lauxlongiru vorton boaton pensis. Sporto sxipon pli iros sed timante, ili ni de.
+<!-- https://formspree.io -->
+
+<form
+  action="https://formspree.io/f/xdorblvj"
+  method="POST"
+  class="contact-form"
+>
+<div class="contact-form__item">
+    <label class="contact-form__label" for="email">
+        Your email:
+    </label>
+    <input class="contact-form__text-input" type="email" name="email" id="email">
+</div>
+<div class="contact-form__item">
+    <label class="contact-form__label" for="message">
+        Your message:
+    </label>
+    <textarea class="contact-form__message contact-form__textarea" name="message" id="message"></textarea>
+</div>
+<button type="submit">Send</button>
+</form>
