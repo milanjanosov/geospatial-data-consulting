@@ -18,7 +18,7 @@ googleAnalytics = "G-ZN5K6GCYK4"
   googleFonts = true
 
   [params.logo]
-    main = "img/logo.svg"
+    main = "img/logo.png"
     alt = "Logo"
 
     # The size parameter is the class name of tailwindcss
@@ -84,3 +84,8 @@ googleAnalytics = "G-ZN5K6GCYK4"
     name = "LinkedIn"
     url = "https://linkedin.com/"
       weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
