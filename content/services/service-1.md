@@ -7,7 +7,6 @@ weight: 1
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel.
 ---
 
-Are you interested in leveling up your geospatial skills, from data cleaning to map visualizations? Our founder, Milan Janosov has been working with geospatial data for over five years, including start-ups, governmental, and consulting projects. He is now ready to share his insights and best practices during his one-on-one masterclasses!
+Are you interested in leveling up your geospatial skills, from data cleaning to map visualizations? Our founder, [*_Milan Janosov_*](https://www.linkedin.com/in/milan-janosov/) has been working with geospatial data for over five years, including start-ups, governmental, and consulting projects. He is now ready to share his insights and best practices during his one-on-one masterclasses!
 
-
-[_Milan Janosov_](https://www.linkedin.com/in/milan-janosov/)
+For more details, reach out [*_here_*](https://geospatialdataconsulting.com/contact/)!
