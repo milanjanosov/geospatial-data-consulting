@@ -10,4 +10,4 @@ Network science is a very powerful yet underrepresented tool in geospatial analy
 <!--more-->
 
 
-[Read the rest here!](https://towardsdatascience.com/do-all-the-roads-lead-to-rome-5b6756ce7d52)
+[*_Read the rest here_*](https://towardsdatascience.com/do-all-the-roads-lead-to-rome-5b6756ce7d52)

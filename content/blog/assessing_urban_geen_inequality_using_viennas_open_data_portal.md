@@ -9,4 +9,4 @@ Despite their many advantages, accessing nature and green spaces is getting incr
 <!--more-->
 
 
-[Read the rest here!](https://towardsdatascience.com/assessing-urban-geen-inequality-using-viennas-open-data-portal-aa628e0237ad)
+[*_Read the rest here_*](https://towardsdatascience.com/assessing-urban-geen-inequality-using-viennas-open-data-portal-aa628e0237ad)

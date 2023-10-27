@@ -10,4 +10,4 @@ Accessibility is one of the key concepts in urban planning today. In this work, 
 <!--more-->
 
 
-[Read the rest here!](https://towardsdatascience.com/urban-accessibility-how-to-reach-defibrillators-on-time-c865d9194448)
+[*_Read the rest on here_*](https://towardsdatascience.com/urban-accessibility-how-to-reach-defibrillators-on-time-c865d9194448)
