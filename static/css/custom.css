@@ -3,6 +3,12 @@ html {
     color: #00ae8e;
 }
 
+*,
+::before,
+::after {
+    border-color: #2e2e2e;
+}
+
 .contact-form__label {
     margin-block-start: 1rem;
 }
@@ -23,4 +29,9 @@ html {
     background: #090909;
     block-size: 25rem;
     inline-size: 40rem;
+}
+
+.bg-gray-800,
+.bg-tlgray-700 {
+    background-color: #2e2e2e;
 }
